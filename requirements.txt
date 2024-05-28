@@ -1,0 +1,8 @@
+# Dependencies
+fastapi
+beanie
+python-jose[cryptography]
+python-decouple
+passlib
+bcrypt
+pydantic-settings
